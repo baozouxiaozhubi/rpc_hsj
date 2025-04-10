@@ -1,0 +1,8 @@
+connect_type:
+  netty
+hostname:
+  localhost
+port:
+  8085
+LB:
+  Round Robin
